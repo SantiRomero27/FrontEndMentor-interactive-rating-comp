@@ -1,0 +1,9 @@
+{
+    "name": "four-card-feature-section",
+    "version": "1.0.0",
+    "author": "Santiago <romerogherdinasantiago@gmail.com>",
+    "license": "MIT",
+    "scripts": {
+        "dev": "live-server --browser=CHROME --open=./src"
+    }
+}
